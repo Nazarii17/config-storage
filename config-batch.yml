@@ -1,0 +1,3 @@
+application:
+  greeting:
+    message: Task server is up!!
