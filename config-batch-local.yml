@@ -1,7 +1,7 @@
 application:
   environment:
     name: local
-  endpoints:
-    - http://localhost:8888/config-batch/local
-    - http://localhost:8888/task-server/local
+  appConfigs:
+    config-batch: http://localhost:8888/config-batch/local
+    task-server: http://localhost:8888/task-server/local
     
