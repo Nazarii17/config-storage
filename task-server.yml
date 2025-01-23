@@ -1,4 +1,4 @@
 application:
   greeting:
     message: Task server is up!!
-  replica-number: 2
+  replica-number: 3
