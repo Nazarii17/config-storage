@@ -4,4 +4,4 @@ application:
   appConfigs:
     config-batch: ${application.config-server-base-url}/config-batch/prod
     task-server: ${application.config-server-base-url}/task-server/prod
-  prod-message: '- - - - - - - PRODUCTION CONFIG BUTCH IS UP ND RUNNING ! ! ! - - - - - - -'
+  prod-message: '- - - - - - - PRODUCTION CONFIG BATCH IS UP ND RUNNING ! ! ! - - - - - - -'
