@@ -1,0 +1,6 @@
+application:
+  environment:
+    name: dev
+  appConfigs:
+    config-batch: ${application.config-server-base-url}/config-batch/dev
+    task-server: ${application.config-server-base-url}/task-server/dev
