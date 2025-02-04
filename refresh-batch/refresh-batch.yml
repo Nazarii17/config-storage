@@ -1,0 +1,4 @@
+application:
+  greeting:
+    message: Refresh batch is up!
+    
