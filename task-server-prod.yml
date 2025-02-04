@@ -1,4 +1,4 @@
 application:
   environment:
-    name: PROD
+    name: prod
     
