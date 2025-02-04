@@ -1,4 +1,5 @@
 application:
   greeting:
     message: Refresh batch is up!
+  refresh-message: HALO!
     
