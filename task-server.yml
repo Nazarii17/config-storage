@@ -1,5 +1,5 @@
 application:
   greeting:
     message: Task server is up!!
-  refresh-message: Hello
+  refresh-message: Hello!!!
   replica-number: 3
