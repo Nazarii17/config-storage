@@ -4,3 +4,4 @@ application:
   appConfigs:
     config-batch: ${application.config-server-base-url}/config-batch/dev
     task-server: ${application.config-server-base-url}/task-server/dev
+    refresh-batch: ${application.config-server-base-url}/refresh-batch/dev
