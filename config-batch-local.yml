@@ -2,6 +2,6 @@ application:
   environment:
     name: local
   appConfigs:
-    config-batch: http://localhost:8888/config-batch/local
-    task-server: http://localhost:8888/task-server/local
-    refresh-batch: http://localhost:8888/refresh-batch/local
+    config-batch: ${application.config-server-base-url}/config-batch/local
+    task-server: ${application.config-server-base-url}/task-server/local
+    refresh-batch: ${application.config-server-base-url}/refresh-batch/local
