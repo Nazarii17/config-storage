@@ -4,4 +4,4 @@ application:
   appConfigs:
     config-batch: http://localhost:8888/config-batch/local
     task-server: http://localhost:8888/task-server/local
-    
+    refresh-batch: http://localhost:8888/refresh-batch/dev
