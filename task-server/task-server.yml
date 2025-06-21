@@ -70,6 +70,7 @@ application:
     message: Hello
   refresh-message: TASK SERVER REFRESH MESSAGE '23:12'
   replica-number: 3
+  config-server-health-url: ${application.config-server-base-url}/actuator/health
 
 tasks:
   location: classpath:tasks/
