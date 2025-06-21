@@ -1,4 +1,0 @@
-application:
-  environment:
-    name: prod
-    
