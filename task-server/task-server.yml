@@ -87,7 +87,7 @@ logging:
 
 secondary:
   datasource:
-    url: jdbc:mysql://localhost:3377/task_server_schema
+    url: jdbc:mysql://localhost:3378/task_server_schema
     username: batch_user
     password: batchuser
     driver-class-name: com.mysql.cj.jdbc.Driver
