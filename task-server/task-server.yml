@@ -68,6 +68,7 @@ server:
   port: 808
 
 application:
+  create-audit: false
   greeting:
     message: Hello
   refresh-message: TASK SERVER REFRESH MESSAGE '23:12'
