@@ -70,7 +70,7 @@ server:
 application:
   create-audit: true
   greeting:
-    message: Hello
+    message: HELLO FROM MEET
   refresh-message: HELLO FROM MEET
   replica-number: 3
   config-server-health-url: ${application.config-server-base-url}/actuator/health
