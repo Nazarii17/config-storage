@@ -71,7 +71,7 @@ application:
   create-audit: true
   greeting:
     message: Hello
-  refresh-message: TASK SERVER REFRESH MESSAGE
+  refresh-message: HELLO FROM MEET
   replica-number: 3
   config-server-health-url: ${application.config-server-base-url}/actuator/health
   data-provider-url: http://localhost:8087/api/user/v1
